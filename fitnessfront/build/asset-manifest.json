@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/projects/health_empire/static/css/main.40074852.css",
+    "main.js": "/projects/health_empire/static/js/main.c6144365.js",
+    "static/media/regcus.jpeg": "/projects/health_empire/static/media/regcus.4b0852073f268b1b8407.jpeg",
+    "static/media/carousal-3.jpg": "/projects/health_empire/static/media/carousal-3.25a7f03ebcfaa4941f82.jpg",
+    "static/media/carousel-2.jpg": "/projects/health_empire/static/media/carousel-2.a84d26f161bb687fa7dd.jpg",
+    "static/media/carousel-1.jpg": "/projects/health_empire/static/media/carousel-1.4cc3608b65a9ae72d619.jpg",
+    "static/media/about.jpg": "/projects/health_empire/static/media/about.f787eaa74f3803e2f360.jpg",
+    "static/media/regtrainer.jpg": "/projects/health_empire/static/media/regtrainer.f84bf10c61ba796e7c84.jpg",
+    "static/media/regdoc.jpg": "/projects/health_empire/static/media/regdoc.3226ed7b1deabf800af9.jpg",
+    "index.html": "/projects/health_empire/index.html",
+    "main.40074852.css.map": "/projects/health_empire/static/css/main.40074852.css.map",
+    "main.c6144365.js.map": "/projects/health_empire/static/js/main.c6144365.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.40074852.css",
+    "static/js/main.c6144365.js"
+  ]
+}
